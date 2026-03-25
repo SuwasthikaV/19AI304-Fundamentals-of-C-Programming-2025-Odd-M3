@@ -5,7 +5,7 @@
 # Ex.No:11
   Formulate a C program to convert a given decimal number into its binary equivalent and display it.
 # Date : 12/02/2026
-# Aim:
+# Aim: 
 To formulate a C program to convert a decimal number into its binary equivalent and display it.
 # Algorithm:
 ### Step 1:
